@@ -1,0 +1,8 @@
+iou_thres: 0.45
+conf_thres: 0.25
+weights: 'weights/yolov7-mask.pt'
+img_size: 640
+thickness: 4
+seed: 1
+nobbox: True
+nolabel: False
